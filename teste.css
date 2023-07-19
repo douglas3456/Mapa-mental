@@ -1,11 +1,13 @@
 Header{
     background-color:green;
+    margin:0px;
 }
+#more {display: none;}
 
     
     div#pp{
         margin: auto;
-        margin-left: 547px;
+        margin-left: 647px;
         height: 8px;
         width: 200px;
         margin-top: 0%;
@@ -15,7 +17,7 @@ Header{
 
 div#ano{
   margin: auto;
-  margin-left: 429px;
+  margin-left: 500px;
   height: 8px;
   width: 200px;
   margin-top: 4%;
@@ -30,8 +32,8 @@ div#conteudo{
         margin-top: 60px;
         width: 25%;
         height: 269px;
-        margin-right: 53%;
-        border: 25px  solid grey;
+        margin-right: 63%;
+        border: 25px  solid red;
  
   
 }
@@ -41,9 +43,161 @@ div#tela{
         margin-top: 60px;
         width: 17%;
         height: 64px;
-        margin-right: 35%;
+        margin-right: 53%;
         border: 25px  solid grey;
          }
  
-         #more {display: none;}
+         
         
+         div#escrita{
+         margin: auto;
+         margin-top: 148px;
+          width: 82%;
+         height: 269px;
+        margin-right: 53%;
+        border: 25px  solid red;
+           }
+
+           div#anos{
+            margin: auto;
+            margin-left: 429px;
+            height: 8px;
+            width: 200px;
+            margin-top: 4%;
+            margin-right: 35%;
+           font-size:100%;
+            
+          }
+  
+          div#gestão{
+            margin: auto;
+            margin-top: 198px;
+             width: 82%;
+            height: 269px;
+           margin-right: 53%;
+           border: 25px  solid red;
+              }
+   
+              div#pano{
+               margin: auto;
+               margin-left: 429px;
+               height: 8px;
+               width: 200px;
+               margin-top: 4%;
+               margin-right: 35%;
+              font-size:100%;
+               
+             }
+
+             div#simulado{
+                margin: auto;
+                margin-top: 174px;
+                 width: 100%;
+                height: 269px;
+               margin-right: 53%;
+               border: 25px  solid red;
+                  }
+       
+                  div#primeiro{
+                   margin: auto;
+                   margin-left: 429px;
+                   height: 8px;
+                   width: 200px;
+                   margin-top: 4%;
+                   margin-right: 35%;
+               
+                   
+                 }
+                 
+                 div#equipe{
+                    margin: auto;
+                    margin-top:-580%;
+                    width: 97%;
+                    height: 101%;
+                    margin-right: -169%;
+                    border: 25px  solid blue;
+                     }
+                     
+                     div#trabalho{
+                        margin: auto;
+                        margin-left: 429px;
+                        height: 8px;
+                        width: 200px;
+                        margin-top: 6%;
+                        margin-right: 35%;
+                       font-size:100%;
+                        
+                      }
+                      div#referencia{
+                        margin: auto;
+                        margin-top: 174px;
+                         width: 100%;
+                        height: 269px;
+                       margin-right: 53%;
+                       border: 25px  solid blue;
+                          }
+               
+                          div#grafica{
+                           margin: auto;
+                           margin-left: 429px;
+                           height: 8px;
+                           width: 200px;
+                           margin-top: 4%;
+                           margin-right: 35%;
+                       }
+                       div#reposito{
+                        margin: auto;
+                        margin-top: 76px;
+                         width: 100%;
+                        height: 269px;
+                       margin-right: 53%;
+                       border: 25px  solid blue;
+                          }
+               
+                          div#segundoano{
+                           margin: auto;
+                           margin-left: 429px;
+                           height: 8px;
+                           width: 200px;
+                           margin-top: 4%;
+                           margin-right: 35%;
+                          }
+                          
+                          div#pesquisa{
+                            margin: auto;
+                            margin-top: -1997px;
+                            width: 115%;
+                            height: 198px;
+                            margin-right: -150%;
+                            border: 25px  solid yellow
+                           }
+
+                          div#terceiro{
+                            margin: auto;
+                            margin-top: 60px;
+                            width: 17%;
+                            height: 64px;
+                            margin-right: 35%;
+                       
+                           }
+                           div#solucao{
+                            margin: auto;
+                            margin-left: 345px;
+                            height: 250px;
+                            width: 200px;
+                            margin-top: -90%;
+                            margin-right: 35%;
+                            border: 25px  solid yellow
+                           }
+
+                          div#java{
+                            margin: auto;
+                            margin-top: 60px;
+                            width: 17%;
+                            height: 64px;
+                            margin-right: 35%;
+                            
+                        }
+                       
+                           
+                           

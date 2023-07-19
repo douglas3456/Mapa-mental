@@ -21,28 +21,110 @@
     
 </div>
         </div>
+    
         <div id="conteudo">
 <div class="ano">    
     <h1>Hard Skill e Soft skills</h1>
   
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scel<span id="dots">...</span><span id="more">erisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</span></p>
+    <p>As hard skills seriam habilidades adquiridas que podem ser utilizadas no meio profissional.Exemplo: Formação de TI ou Formação em letras<span id="dots">...</span><span id="more"><br><br>Soft skills são habilidades socioemocionais adquiridas com o tempo. Exemplo: Controle da raiva. </span></p>
 
 <button onclick="myFunction()" id="myBtn">Leia Mais</button>
 </div>        
 
-<div class="preto2"> 
+<div id="escrita">
+<div class="anos">    
+<h1>Pacote Office</h1>
+  
+  <p>O pacote office é um conjunto de aplicativos que ajudam no trabalho do dia a dia.Exemplo: Word,excel e powerpoint</p>
 
+</div>        
    
-</div>
-<div class="preto3">
-    
-</div>    
-<div class="preto4">
-    
-</div>
-<div>
 
 
+<div id="gestão">
+<div class="pano">    
+<h1>Gestão de tarefas</h1>
+  
+  <p>Como administrar tarefas e evitar a procrastinação utilizando aplicativos. exemplo: Trello </p>
+
+</div>        
+<div id="simulado">
+<div class="primeiro">    
+<h1>Plastiutil</h1>
+  
+  <p>Simulado para ensinar e demonstrar como trabalhar em uma empresa,como por exemplo:como é feito um brainstorming na criação de produtos.</p>
+
+</div>        
+<div id="equipe">
+<div class="trabalho">    
+    <h1>Trabalho em equipe</h1>
+  
+    <p>Como o trabalho em equipe é importante e como é nesscessario para realização dos mesmos.Exemplo:realização de tarefas e trabalhos em grupo </p>
+</div>      
+
+<div id="referencia">
+<div class="grafica">    
+    <h1>referencias bibliograficas</h1>
+  
+    <p>Como se faz referências bibliograficas diante as normas da CLT.Exemplo:Autor,titulo,link e ano de acesso</p>
+
+
+</div>       
+
+<div id="referencia">
+<div class="grafica">    
+    <h1>projeto de pesquisa</h1>
+  
+    <p>O projeto de pesquisa ou artigo de pesquisa é um planejamento para uma pesquisa cientifica.Exemplo:Melhor um local especifico</p>
+
+
+</div>      
+<div id="referencia">
+<div class="grafica">    
+    <h1>Diario de bordo</h1>
+  
+    <p>Como se faz referências bibliograficas diante as normas da CLT.Exemplo:Autor,titulo,link e ano de acesso</p>
+
+</div>
+
+</div>      
+<div id="reposito">
+<div class="segundoano">    
+    <h1>Repositório academicos</h1>
+  
+    <p>Repositórios academicos são sites onde se pode encontrar artigos cientificos.Exemplo Google Academico</p>
+
+</div>
+
+<div id="pesquisa">
+<div class="terceiro">    
+    <h1> Continuação do projeto</h1>
+  
+    <p>continuando o projeto de pesquisa ou craram se novos</p>
+
+</div>
+<div id="solucao">
+<div class="java">    
+    <h1> Solução de problemas java</h1>
+  
+    <p>Utilizando a linguagem de programação java, para solução de problemas </p>
+
+</div>
+<div id="solucao">
+<div class="java">    
+    <h1> Novo  projeto de pesquisa</h1>
+  
+    <p>Criação de novo projeto de pesquisa para ser escolhido para entrar na UfRGS </p>
+
+</div>
+
+<div id="solucao">
+<div class="java">    
+    <h1> Jogo de Tabuleiro</h1>
+  
+    <p>Jogo de tabuleiro sobre conteudos aprendidos nos ultimos anos </p>
+
+</div>
 
 </div>
 </div>
